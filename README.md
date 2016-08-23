@@ -1,3 +1,3 @@
 # kevingao349
 
-# personal website using CSS/Bootstrap and JQuery
+# directory for out-of-school projects
